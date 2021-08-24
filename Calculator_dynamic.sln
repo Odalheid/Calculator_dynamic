@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calculator_dynamic", "Calculator_dynamic\Calculator_dynamic.vcxproj", "{BB928FCE-E790-4F8A-813F-58AC8FDD658B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB928FCE-E790-4F8A-813F-58AC8FDD658B}.Debug|x64.ActiveCfg = Debug|x64
+		{BB928FCE-E790-4F8A-813F-58AC8FDD658B}.Debug|x64.Build.0 = Debug|x64
+		{BB928FCE-E790-4F8A-813F-58AC8FDD658B}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB928FCE-E790-4F8A-813F-58AC8FDD658B}.Debug|x86.Build.0 = Debug|Win32
+		{BB928FCE-E790-4F8A-813F-58AC8FDD658B}.Release|x64.ActiveCfg = Release|x64
+		{BB928FCE-E790-4F8A-813F-58AC8FDD658B}.Release|x64.Build.0 = Release|x64
+		{BB928FCE-E790-4F8A-813F-58AC8FDD658B}.Release|x86.ActiveCfg = Release|Win32
+		{BB928FCE-E790-4F8A-813F-58AC8FDD658B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C1DCC3C-C060-4F55-B179-FD0AF8D3A30A}
+	EndGlobalSection
+EndGlobal
